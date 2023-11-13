@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DailyVIta</string>
+    <string name="lbl_welcome_to_dailyvita">Welcome to DailyVita</string>
+    <string name="lbl_welcome_content_1">Hello, we are here to make your life healthier and happier</string>
+    <string name="lbl_welcome_content_2">We will ask couple of quetions to better userstand your vitamin need.</string>
+    <string name="lbl_get_started">Get Started</string>
+    <string name="lbl_upto_5">(upto 5)</string>
+    <string name="lbl_select_the_top_health_concerns">Select the top health concerns.</string>
+    <string name="lbl_prioritize">Prioritize</string>
+    <string name="lbl_diet_follow">Select the diets you follow.</string>
+    <string name="lbl_none">None</string>
+    <string name="lbl_back">Back</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_allergies_header">Write any specific allergeies or sensitivity towards specific things.</string>
+    <string name="lbl_optional">(Optional)</string>
+    <string name="lbl_daily_expourse_sun_limited">Is your daily exposure to sun is limited?</string>
+    <string name="lbl_currently_smoking">Do you current smoke (tobacco or marijuana)?</string>
+    <string name="lbl_average_alcoholic_per_week">On average, how many alcoholic beverages do you have in a week?</string>
+    <string name="lbl_no">No</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_get_my_personlized_vitamin">Get my personlized vitamin</string>
+    <string name="lbl_please_select_health_concern_up_to_5">Please select Health Concern up to 5</string>
+</resources>
